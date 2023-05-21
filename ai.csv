@@ -1,0 +1,189 @@
+Questions,Difficulty,Category
+What is the difference between Search Head Pooling and Search Head Clustering?,2.0,AI
+What are the significant components in the execution environment of Pig?,1.0,AI
+What is the difference between agglomerative and divisive hierarchical clustering?,2.0,AI
+How to determine the version of Java used by iReport designers in an environment?,2.0,AI
+What is bidirectional cross-filtering in Power BI?,1.0,AI
+Can we see the list of roles and associated IDs in OpenStack environment?,2.0,AI
+What are the deployment environment options provided by Azure?,1.0,AI
+"If you have an application running on the on-premise server and Azure East US region has a backup, will you be able to access the application via the Azure environment in case of an on-premise server application access failure?",,AI
+You have an Azure subscription that contains 100 virtual machines. You have a set of Pester tests in PowerShell that validate the virtual machine environment. You need to run the tests whenever there is an operating system update on the virtual machines. The solution must minimize implementation time and recurring costs. Which three resources should you use to implement the tests?,1.0,AI
+Which architecture is recommended for a scalable Jenkins environment?,1.0,AI
+State the differences between variable names and environment variables,2.0,AI
+What is logistic regression?,1.0,AI
+Define Poison regression.,1.0,AI
+What do you understand about linear regression?,1.0,AI
+What do you understand by logistic regression?,1.0,AI
+Explain the differences between supervised and unsupervised learning.,2.0,AI
+What is pruning in a decision tree algorithm?,1.0,AI
+What is entropy in a decision tree algorithm?,1.0,AI
+What information is gained in a decision tree algorithm?,1.0,AI
+What is Deep Learning?,1.0,AI
+What is an RNN (recurrent neural network)?,1.0,AI
+What do you understand by a decision tree?,1.0,AI
+How are Data Science and Machine Learning related to each other?,2.0,AI
+How can we select an appropriate value of k in k-means?,2.0,AI
+How to calculate the accuracy of a binary classification algorithm using its confusion matrix?,2.0,AI
+Explain how Machine Learning is different from Deep Learning.,2.0,AI
+What does the word ‘Naive’ mean in Naive Bayes?,1.0,AI
+"Implement simple linear regression in R on this ‘mtcars’ dataset, where the dependent variable is ‘mpg’ and the independent variable is ‘disp.’",1.0,AI
+Implement simple linear regression in Python on this ‘Boston’ dataset where the dependent variable is ‘medv’ and the independent variable is ‘lstat.’,1.0,AI
+Implement logistic regression on this ‘heart’ dataset in R where the dependent variable is ‘target’ and the independent variable is ‘age.’,1.0,AI
+Build a logistic regression model on the ‘customer_churn’ dataset in Python. The dependent variable is ‘Churn’ and the independent variable is ‘MonthlyCharges.’ Find the log_loss of the model.,2.0,AI
+"Build a decision tree model on ‘Iris’ dataset where the dependent variable is ‘Species,’ and all other columns are independent variables. Find the accuracy of the model built.",2.0,AI
+Write code to calculate the accuracy of a binary classification algorithm using its confusion matrix.,,AI
+Write a function that when called with a confusion matrix for a binary classification model returns a dictionary with its precision and recall.,1.0,AI
+What are the assumptions required for linear regression?,1.0,AI
+What happens when some of the assumptions required for linear regression are violated?,1.0,AI
+How is it different from doing machine learning in R or SAS?,2.0,AI
+Mention some machine learning algorithms exposed by Mahout?,1.0,AI
+What is the difference between Strong Artificial Intelligence and Weak Artificial Intelligence?,2.0,AI
+What is Artificial Intelligence?,1.0,AI
+List some applications of AI.,1.0,AI
+List the programming languages used in AI.,1.0,AI
+What are the Examples of AI in real life?,1.0,AI
+What is ANN?,1.0,AI
+"Difference between AI, ML, and DL?",2.0,AI
+What is Tower of Hanoi?,1.0,AI
+What is Turing test?,1.0,AI
+What is an expert system? What are the characteristics of an expert system?,1.0,AI
+List the advantages of an expert system. ,1.0,AI
+What is an A* algorithm search method? ,1.0,AI
+What is a breadth-first search algorithm?,1.0,AI
+What is a depth-first search algorithm?,1.0,AI
+What is a bidirectional search algorithm?,1.0,AI
+What is an iterative deepening depth-first search algorithm?,1.0,AI
+What is a uniform cost search algorithm?,1.0,AI
+How are game theory and AI related?,2.0,AI
+Explain Alpha–Beta pruning.,2.0,AI
+What is a fuzzy logic?,1.0,AI
+List the applications of fuzzy logic.,1.0,AI
+What is a partial-order planning?,1.0,AI
+What is FOPL?,1.0,AI
+"What is the difference between inductive, deductive, and abductive Machine Learning?",2.0,AI
+List the different algorithm techniques in Machine Learning.,1.0,AI
+What is Deep Learning?,1.0,AI
+"Differentiate between supervised, unsupervised, and reinforcement learning.",2.0,AI
+Name a few Machine Learning algorithms you know.,1.0,AI
+What is Naive Bayes?,1.0,AI
+What is perceptron in Machine Learning?,1.0,AI
+Is KNN different from K-means Clustering?,,AI
+List the steps involved in Machine Learning.,1.0,AI
+What is regularization in Machine Learning?,1.0,AI
+List the applications of Machine Learning.,1.0,AI
+Can you name three feature selection techniques in Machine Learning?,2.0,AI
+List different methods for sequential supervised learning.,1.0,AI
+What are the hyper parameters of ANN?,1.0,AI
+"
+Find Artificial Intelligence Training in other cities",,AI
+"Explain Machine Learning, Artificial Intelligence, and Deep Learning",2.0,AI
+What is Bias and Variance in Machine Learning?,1.0,AI
+What is Clustering in Machine Learning?,1.0,AI
+What is Linear Regression in Machine Learning?,1.0,AI
+What is a Decision Tree in Machine Learning?,1.0,AI
+What is Overfitting in Machine Learning and how can it be avoided?,2.0,AI
+What is Hypothesis in Machine Learning?,1.0,AI
+What are the differences between Deep Learning and Machine Learning?,2.0,AI
+What are the differences between Supervised and Unsupervised Machine Learning?,2.0,AI
+What is Bayes’s Theorem in Machine Learning?,1.0,AI
+What is PCA in Machine Learning?,1.0,AI
+What is Support Vector Machine (SVM) in Machine Learning?,1.0,AI
+What is Cross-validation in Machine Learning?,1.0,AI
+What is Entropy in Machine Learning?,1.0,AI
+What is Epoch in Machine Learning?,1.0,AI
+What are the types of Machine Learning?,1.0,AI
+Differentiate between Classification and Regression in Machine Learning,2.0,AI
+How is the suitability of a Machine Learning Algorithm determined for a particular problem?,2.0,AI
+When should Classification be used over Regression?,1.0,AI
+Explain Logistic Regression,2.0,AI
+Explain the difference between KNN and K-means Clustering,2.0,AI
+"In Machine Learning, for how many classes can Logistic Regression be used?",2.0,AI
+What are the Two Main Types of Filtering in Machine Learning? Explain.,2.0,AI
+Executing a binary classification tree algorithm is a simple task. But how does tree splitting take place? How does the tree determine which variable to break at the root node and which at its child nodes?,2.0,AI
+How to Implement the KNN Classification Algorithm?,2.0,AI
+"
+Find Online Machine Learning course in Other Regions",,AI
+: What are the top Apache frameworks used in a distributed computing environment?,1.0,AI
+: What is Hierarchical Clustering?,1.0,AI
+: What are some of the properties of clustering algorithms?,1.0,AI
+: What is K-means algorithm?,1.0,AI
+: Why is Naive Bayes called ‘naive’?,2.0,AI
+Watch this video on Natural Language Processing Interview Questions for Beginners:,,AI
+What do you understand by Natural Language Processing?,1.0,AI
+If you want to learn Natural Language Processing then go through the following tutorial:,,AI
+List any two real-life applications of Natural Language Processing.,1.0,AI
+List the components of Natural Language Processing.,1.0,AI
+What is Parsing in the context of NLP?,1.0,AI
+Define the terminology in NLP.,1.0,AI
+Explain Dependency Parsing in NLP.,2.0,AI
+What is the difference between NLP and NLU?,2.0,AI
+What is the difference between NLP and CI?,2.0,AI
+"What are unigrams, bigrams, trigrams, and n-grams in NLP?",1.0,AI
+What are the steps involved in solving an NLP problem?,1.0,AI
+What is Feature Extraction in NLP?,1.0,AI
+What is F1 score in NLP?,1.0,AI
+"
+Find NLP Training in Other Regions",,AI
+"Check out our Deep Learning Interview Questions And Answers on YouTube, designed especially for beginners:",,AI
+What is the difference between Machine Learning and Deep Learning?,2.0,AI
+How is Deep Learning better than Machine Learning?,2.0,AI
+What are some of the most used applications of Deep Learning?,1.0,AI
+Why is Fourier transform used in Deep Learning?,2.0,AI
+What are the steps involved in training a perception in Deep Learning?,1.0,AI
+What are some of the Deep Learning frameworks or tools that you have used?,1.0,AI
+What is data normalization in Deep Learning?,1.0,AI
+What are hyperparameters in Deep Learning?,1.0,AI
+What is the meaning of dropout in Deep Learning?,1.0,AI
+What is the meaning of model capacity in Deep Learning?,1.0,AI
+What is a computational graph in Deep Learning?,1.0,AI
+What is an RNN in Deep Learning?,1.0,AI
+What is exploding gradient descent in Deep Learning?,1.0,AI
+What are some of the limitations of Deep Learning?,1.0,AI
+Why is the Leaky ReLU function used in Deep Learning?,2.0,AI
+What are some of the examples of supervised learning algorithms in Deep Learning?,1.0,AI
+What are some of the examples of unsupervised learning algorithms in Deep Learning?,1.0,AI
+What are some of the applications of transfer learning in Deep Learning?,1.0,AI
+How is the transformer architecture better than RNNs in Deep Learning?,2.0,AI
+What is the meaning of bagging and boosting in Deep Learning?,1.0,AI
+"
+Find Artificial Intelligence Training in other cities",,AI
+A regression analysis between apples (y) and oranges (x) resulted in the following least-squares line: y = 100 + 2x. What is the implication if oranges are increased by 1?,2.0,AI
+"In a scatter diagram, what is the line that is drawn above or below the regression line called?",1.0,AI
+What are some of the low and high-bias Machine Learning algorithms?,1.0,AI
+What is regression?,1.0,AI
+What is classification?,1.0,AI
+Do you have any past work experience in a production environment involving Java?,,AI
+Which process allows non-PRINCE2 practices to be integrated into a PRINCE2 project environment when creating products?,1.0,AI
+Can you edit an apex trigger/ apex class in the production environment? Can you edit a Visualforce page in the production environment?,2.0,AI
+Is there any difference between retesting and regression testing?,2.0,AI
+How do you perform automated testing in your environment?,2.0,AI
+"
+Find Online Machine Learning course in Other Regions	",,AI
+"
+Find Artificial Intelligence Training in other cities	",,AI
+What is regression?,1.0,AI
+What is classification?,1.0,AI
+What do you understand about linear regression?,1.0,AI
+What do you understand by logistic regression?,1.0,AI
+Explain the differences between supervised and unsupervised learning.,2.0,AI
+What is pruning in a decision tree algorithm?,1.0,AI
+What is entropy in a decision tree algorithm?,1.0,AI
+What information is gained in a decision tree algorithm?,1.0,AI
+What is Deep Learning?,1.0,AI
+What is an RNN (recurrent neural network)?,1.0,AI
+What do you understand by a decision tree?,1.0,AI
+How are Data Science and Machine Learning related to each other?,2.0,AI
+How can we select an appropriate value of k in k-means?,2.0,AI
+How to calculate the accuracy of a binary classification algorithm using its confusion matrix?,2.0,AI
+Explain how Machine Learning is different from Deep Learning.,2.0,AI
+What does the word ‘Naive’ mean in Naive Bayes?,1.0,AI
+"Implement simple linear regression in R on this ‘mtcars’ dataset, where the dependent variable is ‘mpg’ and the independent variable is ‘disp.’",1.0,AI
+Implement simple linear regression in Python on this ‘Boston’ dataset where the dependent variable is ‘medv’ and the independent variable is ‘lstat.’,1.0,AI
+Implement logistic regression on this ‘heart’ dataset in R where the dependent variable is ‘target’ and the independent variable is ‘age.’,1.0,AI
+Build a logistic regression model on the ‘customer_churn’ dataset in Python. The dependent variable is ‘Churn’ and the independent variable is ‘MonthlyCharges.’ Find the log_loss of the model.,2.0,AI
+"Build a decision tree model on ‘Iris’ dataset where the dependent variable is ‘Species,’ and all other columns are independent variables. Find the accuracy of the model built.",2.0,AI
+Write code to calculate the accuracy of a binary classification algorithm using its confusion matrix.,,AI
+Write a function that when called with a confusion matrix for a binary classification model returns a dictionary with its precision and recall.,1.0,AI
+What are the assumptions required for linear regression?,1.0,AI
+What happens when some of the assumptions required for linear regression are violated?,1.0,AI
+Can you edit an apex trigger/ apex class in the production environment? Can you edit a Visualforce page in the production environment?,2.0,AI

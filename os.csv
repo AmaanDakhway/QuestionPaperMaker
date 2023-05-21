@@ -1,0 +1,162 @@
+Questions,Difficulty,Category
+Compare Robotic Process Automation with traditional automation.,2.0,OS
+List the advantages of Robotic Process Automation.,1.0,OS
+Mention the key difference between process automation and test automation?,2.0,OS
+How would you go about enabling image and content-based process automation?,2.0,OS
+What is the command used to check the running Splunk processes on Unix/Linux?,1.0,OS
+What is Dispatch Directory?,1.0,OS
+What is distributed cache? What are its benefits?,1.0,OS
+What happens if you try to run a Hadoop job with an output directory that is already present?,1.0,OS
+What file contains configuration for data directory?,1.0,OS
+Explain job scheduling through JobTracker.,2.0,OS
+What is the process of indexing in HDFS?,1.0,OS
+How can we see only top 15 records from the student.txt out of 100 records in the HDFS directory?,2.0,OS
+Explain the process to access subdirectories recursively in Hive queries.,2.0,OS
+"Can we run UNIX shell commands from Hive? Can Hive queries be executed from script files? If yes, how? Give an example.",2.0,OS
+Explain the saved job process in Sqoop.,2.0,OS
+How to use logic from one transformation/job in other process?,2.0,OS
+What is your daily work process in Tableau?,1.0,OS
+Differentiate between standalone and embedded filter?,2.0,OS
+How to run Turbo Integrator Process from Command Line?,2.0,OS
+Name the function which is used to serialize the TI process?,1.0,OS
+Describe the ETL process?,2.0,OS
+What is the process for removing duplicates in DataStage?,1.0,OS
+How do we compare the Validated OK with the Compiled Process in DataStage?,2.0,OS
+How can we create indexes after completing the load process?,2.0,OS
+Name the other tools used for scheduling purpose other than Workflow Manager and pmcmd.,1.0,OS
+What is an ETL process?,1.0,OS
+How many steps are there in an ETL process?,2.0,OS
+What are the steps involved in an ETL process?,1.0,OS
+What is the process of using user defined function in iReport?,1.0,OS
+What is the process of documentation of iReport in Java?,1.0,OS
+How can you access a restricted file system in Qlik Sense?,2.0,OS
+Explain the process of creating an application in Qlik Sense.,2.0,OS
+Explain the business analysis process flow.,2.0,OS
+Differentiate between risk mitigation and risk avoidance.,2.0,OS
+What is business process modeling?,1.0,OS
+List the benefits of business process modeling.,1.0,OS
+Which service offered by Amazon will you choose if you want to collect and process e-commerce data for near real-time analysis? (Choose any two)DynamoDBRedshiftAuroraSimpleDB,1.0,OS
+"A company's web application is using multiple Linux Amazon EC2 instances and storing data on Amazon EBS volumes. The company is looking for a solution to increase the resiliency of the application in case of a failure and to provide storage that complies with atomicity, consistency, isolation, and durability (ACID). What should a solutions architect do to meet these requirements?",1.0,OS
+"An organization has multiple facilities in various continents such as North America, Europe, and the Asia Pacific. The organization is designing a new distributed application to manage and optimize its global supply chain and its manufacturing process. It needs to design the process in such a way that the booked order in one continent should be able to support data failover with a short Recovery Time Objective (RTO). The uptime of the application should not impact manufacturing, what kind of solution would you recommend as a solution architect?",1.0,OS
+What is the concept of sudo in Linux?,1.0,OS
+What are the prerequisites to install Ansible 2.8 on Linux?,1.0,OS
+What are the differences occurred in distributed operations?,1.0,OS
+What is a ledger? What is the difference between a distributed ledger and a traditional ledger?,2.0,OS
+What is Azure Active Directory (Azure AD)?,1.0,OS
+How does Azure Site Recovery work?,2.0,OS
+How to export users from Azure Active Directory?,2.0,OS
+Create a Virtual Machine with Azure CLI.,,OS
+You have an Azure subscription that contains an Azure Log Analytics workspace. You have a resource group that contains 100 virtual machines. The virtual machines run Linux. You need to collect events from the virtual machines to the log analytics workspace. Which type of data source should be configured in the workspace?,1.0,OS
+You have an Azure virtual machine named VM1 and an Azure Active Directory (Azure AD) tenant named adatum.com. VM1 has the following settings:,,OS
+You have an Azure Kubernetes Service (AKS) cluster named Clus1 in a resource group named RG1. An administrator plans to manage Clus1 from an Azure AD-joined device. You need to ensure that the administrator can deploy the YAML application manifest file for a container application. You install the Azure CLI on the device. Which command should you run next?,2.0,OS
+You have an on-premises network that contains a Hyper-V host named Host1. Host1 runs Windows Server 2016 and hosts 10 virtual machines that run Windows Server 2016. You plan to replicate the virtual machines to Azure by using Azure Site Recovery. You create a Recovery Services vault named ASR1 and a Hyper-V site named Site1. You need to add Host1 to ASR1. What should you do?,1.0,OS
+What is the process for updating a Chef Cookbook?,1.0,OS
+What is the process for bootstrapping in Chef and the information needed?,1.0,OS
+What is the process for creating a Docker container?,1.0,OS
+What is the process for stopping and restarting a Docker container?,1.0,OS
+What is Git Bash?,1.0,OS
+What is the process for creating a repository in Git?,1.0,OS
+What is the process for creating a backup and copy files in Jenkins?,1.0,OS
+What is the process for securing Jenkins?,1.0,OS
+"If an organization has a large distributed system with several data centers, virtual machines, and a huge number of employees working on various tasks, how can the tasks be managed with consistency with the help of Kubernetes?",2.0,OS
+How are the variables like $ operating system set?,2.0,OS
+What are the steps for creating ETL process in Azure Data Factory?,1.0,OS
+How is CodeBuild used to automate the release process?,2.0,OS
+Explain the build process using CodeBuild in AWS DevOps.,2.0,OS
+Which protocol does Ansible use to communicate with Linux and Windows?,1.0,OS
+What is an intrusion detection system (IDS)?,1.0,OS
+What's a denial of service (DOS) attack and what are the common forms?,1.0,OS
+Explain how you can start the R commander GUI.,2.0,OS
+Why is mini-batch gradient descent so popular?,2.0,OS
+What do you mean by Recovery Catalog?,1.0,OS
+Explain how the “Database Writer” process works?,2.0,OS
+How is the Process of PL/SQL Compiled?,2.0,OS
+Why SELECT is not preferred in Embedded SQL programs?,2.0,OS
+Is there any restriction on the use of UNION in Embedded SQL?,,OS
+How to retrieve rows from a DB2 table in Embedded SQL?,2.0,OS
+Can you use MySQL with Linux operating system?,2.0,OS
+How to speed up the DBCC CHECKDB execution process?,2.0,OS
+Which JSON framework is supported by iOS (iPhone OS)?,1.0,OS
+What is meant by deadlock?,1.0,OS
+How is memory management handled on iOS?,2.0,OS
+How can two Android applications share the same Linux user ID and the VM?,2.0,OS
+How can we move an old file into the moveChunk directory?,2.0,OS
+What are Embedded documents?,1.0,OS
+Which operating system is supported by HBase?,1.0,OS
+What is the most common file system of HBase?,1.0,OS
+What is use of InputFormat in MapReducr process?,1.0,OS
+What OS does Cassandra support?,1.0,OS
+How to distinguish processes from threads?,2.0,OS
+What is the use of batch processing in JDBC?,1.0,OS
+What is Linux?,1.0,OS
+Compare Linux with Windows.,2.0,OS
+What are the components of the Linux system?,1.0,OS
+Name a service that you should disable (which acts both as web and FTP servers) on a Linux server.,1.0,OS
+How to check memory stats and CPU stats as a Linux Admin?,2.0,OS
+What are the different modes of Network Bonding in Linux?,1.0,OS
+Do you know the Maximum length (in bytes) of the filename in Linux?,2.0,OS
+What are the two different kinds of Linux User Modes?,1.0,OS
+Check out this video on Linux Shell Tutorial:,,OS
+Explain the features of the Linux system?,2.0,OS
+Why is Linux regarded as a more secure operating system than other operating systems?,2.0,OS
+How can you enhance the security of the password file in Linux?,2.0,OS
+What are the three standard streams in Linux?,1.0,OS
+What command can you use to make a tape archive file of /home directory and send it to the /dev/tape device?,2.0,OS
+What is CLI? ,1.0,OS
+What is GUI?,1.0,OS
+"Suppose, your FTP Server is hacked and the entire server needs to be restored. How would you restore the original kernel system files?",2.0,OS
+Why should you avoid Telnet to administer a Linux system remotely?,2.0,OS
+Differentiate between Linux and Unix,2.0,OS
+Name the four Configuration Management Tools used in UNIX-like operating systems.,1.0,OS
+Mention the difference between BASH and DOS,2.0,OS
+Explain various file permissions in Linux? ,2.0,OS
+"Can we convert a Linux computer into a router in order to enable multiple machines to work on the same Internet connection? If yes, how?",2.0,OS
+"In Linux, how would you change the window manager?",2.0,OS
+Mention various Linux directory commands,1.0,OS
+How are shadow passwords given in Linux?,2.0,OS
+List out some Linux distributors?,1.0,OS
+What daemon is used for scheduling commands?,1.0,OS
+What do you know about Linux Shell and its types?,2.0,OS
+What shell does a Linux Administrator assign to a POP3 mail-only account?,1.0,OS
+What is YUM?,1.0,OS
+Explain the /proc file system?,2.0,OS
+"In Linux, how can I figure out where a file is stored?",2.0,OS
+How would you create an ext4 file system?,2.0,OS
+"In Linux, how do you stop a running process?",2.0,OS
+"
+Find Linux Training in Other Regions",,OS
+Is the Graphical Process Designer (GPD) only useable in Eclipse? Is there a way to use it standalone?,,OS
+How to halt process in DRL file?,2.0,OS
+What is dynamic memory management?,1.0,OS
+Which ITIL process should ensure that the organization is aware of new and changing technologies?,1.0,OS
+Who decides the categorization of a proposed change within an ITIL Change Management process?,1.0,OS
+What is the process model of prince2?,1.0,OS
+During which process is the request to approve the next Stage Plan made? ,1.0,OS
+Which process triggers the request to deliver a project?,1.0,OS
+Which process can be carried out without using PRINCE2?,2.0,OS
+During which process is a Checkpoint Report produced?,1.0,OS
+During which Process is the Work Package status reviewed?,1.0,OS
+"According to PRINCE2 processes, during which particular process is the outline business case prepared?",1.0,OS
+What is the objective of the Directing a Project process?,1.0,OS
+What is the purpose of the Managing Product Delivery process?,1.0,OS
+What are the activities in CP process?,1.0,OS
+What are the activities in DP process?,1.0,OS
+What are the activities in SU process?,1.0,OS
+In which process is the justification of the project examined and the Project Plan created?,1.0,OS
+What are the different methods of Batch Apex class?,1.0,OS
+Why use Batch Apex instead of Normal Apex?,2.0,OS
+What is elementary process?,1.0,OS
+When should you stop the testing process?,1.0,OS
+What do you mean by defect detection percentage in software testing?,1.0,OS
+What are the advantages and disadvantages of Embedded Style Sheets?,1.0,OS
+How embedded style can be linked with HTML documents?,2.0,OS
+What is the digest cycle process in Angular?,1.0,OS
+Explain Angular CLI.,2.0,OS
+Distributed Architecture,,OS
+Which service offered by Amazon will you choose if you want to collect and process e-commerce data for near real-time analysis? (Choose any two)DynamoDBRedshiftAuroraSimpleDB,1.0,OS
+"A company's web application is using multiple Linux Amazon EC2 instances and storing data on Amazon EBS volumes. The company is looking for a solution to increase the resiliency of the application in case of a failure and to provide storage that complies with atomicity, consistency, isolation, and durability (ACID). What should a solutions architect do to meet these requirements?",1.0,OS
+"An organization has multiple facilities in various continents such as North America, Europe, and the Asia Pacific. The organization is designing a new distributed application to manage and optimize its global supply chain and its manufacturing process. It needs to design the process in such a way that the booked order in one continent should be able to support data failover with a short Recovery Time Objective (RTO). The uptime of the application should not impact manufacturing, what kind of solution would you recommend as a solution architect?",1.0,OS
+What is the concept of sudo in Linux?,1.0,OS
+What are the prerequisites to install Ansible 2.8 on Linux?,1.0,OS
+What are the different methods of Batch Apex class?,1.0,OS
+Why use Batch Apex instead of Normal Apex?,2.0,OS
